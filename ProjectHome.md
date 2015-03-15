@@ -1,0 +1,1 @@
+A HTML Tidy plugin (based on tidy-html5) for Notepad++.
